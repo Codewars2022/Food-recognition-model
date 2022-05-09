@@ -10,7 +10,7 @@ In this project, we have developed a food recognition model that predicts the fo
 
 # Video Link
 ```
-https:
+https://umsystem.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b84e5777-a8c6-48c9-86c5-ae900053d9b4
 ```
 # Overview
 The main objective of this project is to recognize the food image. The categories of food include Apple, Banana, Cherry, Lemon, Pineapple, Tomato. After capturing the food the aim is to show that to which category does the image belongs to & estimate the calorie.
