@@ -36,23 +36,28 @@ The data is collected from the reference below. We downloaded the images and sep
 https://www.kaggle.com/datasets/aelchimminut/fruits262 
 
 # Food image categories
-![](documentation%20images/Categories.png)
+![](document%20images/Categories.png)
 
 # Food image samples
-![](documentation%20images/sample.png) 
+![](document%20images/sample.png) 
 
 # Model Summary
 
 Once we have trained the model with the training data, we have evaluated our model using the test data and the model has an accuracy around 60%.
 
-![](documentation%20images/modelsummary.png) 
+![](document%20images/modelsummary.png) 
 
 # Model Performance
-![](documentation%20images/modelperformance.png) 
+![](document%20images/modelperformance.png) 
 
 # Results
 
 Lemon
 
-Cherry
+![](screenshots/Lemon.jpeg)
 
+Cherry
+![](screenshots/Cherry.jpeg)
+
+# Interface
+![](document%20images/interface2.png) 
