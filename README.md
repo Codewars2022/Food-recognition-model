@@ -1,10 +1,12 @@
 # Food-recognition-model-using-CNN
 
+In this project, we have developed a food recognition model that predicts the food that are captured using the camera and also estimate its calorie, to help patients and dietitians in managing daily food intake.
+
 # Team name : CODE WARS
 
-1. Abhitej Thonupunoori
-2. Manoj Kumar Madireddy
-3. Aravind Kumar Gardas
+1. Abhitej Thonupunoori - attxv@umsystem.edu 
+2. Manoj Kumar Madireddy - mm68c@umsystem.edu
+3. Aravind Kumar Gardas - agbnx@umsystem.edu
 
 # Video Link
 ```
@@ -37,12 +39,16 @@ https://www.kaggle.com/datasets/aelchimminut/fruits262
 ![](documentation%20images/Categories.png)
 
 # Food image samples
-
+![](documentation%20images/sample.png) 
 
 # Model Summary
+
+Once we have trained the model with the training data, we have evaluated our model using the test data and the model has an accuracy around 60%.
+
 ![](documentation%20images/modelsummary.png) 
 
 # Model Performance
+![](documentation%20images/modelperformance.png) 
 
 # Results
 
