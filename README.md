@@ -16,7 +16,7 @@ https:
 The main objective of this project is to recognize the food image. The categories of food include Apple, Banana, Cherry, Lemon, Pineapple, Tomato. After capturing the food the aim is to show that to which category does the image belongs to & estimate the calorie.
 
 # Execution
-To run the code type ```python segment.py``` in source code folder
+To run the code type ```python segment.py``` 
 
 # Code requirements
 The code requires python version 3.0 or higher, and Jupyter Notebook.
