@@ -35,5 +35,5 @@ https://www.kaggle.com/datasets/aelchimminut/fruits262
 
 # Food image categories
 
-![](documentation%20images/category.png)
+<img width="518" alt="Categories" src="https://user-images.githubusercontent.com/105179202/167321231-b277a394-b7a1-426b-989e-9b893673fbda.png">
 
