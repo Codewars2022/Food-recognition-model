@@ -36,6 +36,17 @@ https://www.kaggle.com/datasets/aelchimminut/fruits262
 # Food image categories
 ![](documentation%20images/Categories.png)
 
-#Model Summary
-![](documentation%20images/modelsummary.png)
+# Food image samples
+
+
+# Model Summary
+![](documentation%20images/modelsummary.png) 
+
+# Model Performance
+
+# Results
+
+Lemon
+
+Cherry
 
