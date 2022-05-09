@@ -34,6 +34,8 @@ The data is collected from the reference below. We downloaded the images and sep
 https://www.kaggle.com/datasets/aelchimminut/fruits262 
 
 # Food image categories
+![](documentation%20images/Categories.png)
 
-<img width="518" alt="Categories" src="https://user-images.githubusercontent.com/105179202/167321231-b277a394-b7a1-426b-989e-9b893673fbda.png">
+#Model Summary
+![](documentation%20images/modelsummary.png)
 
